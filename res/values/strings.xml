@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Asteroides</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- activity_main.xml -->
+    <string name="twTitle_text">ASTEROIDES</string>
+    <string name="btJugar_text">Jugar</string>
+   <string name="btConfigurar_text">Configurar</string>
+    <string name="btAcercaDe_text">Acerca de</string>
+    <string name="btSalir_text">Salir</string>
+    
+        
+</resources>
